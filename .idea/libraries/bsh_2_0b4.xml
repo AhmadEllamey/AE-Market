@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="bsh-2.0b4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jasperreports-5.2.0/lib/bsh-2.0b4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

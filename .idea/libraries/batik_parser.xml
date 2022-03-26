@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="batik-parser">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jasperreports-5.2.0/lib/batik-parser.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

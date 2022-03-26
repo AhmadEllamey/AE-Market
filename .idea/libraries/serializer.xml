@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="serializer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jasperreports-5.2.0/lib/serializer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
